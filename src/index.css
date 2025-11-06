@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body{
+  background-color: black;
+  color: azure;
+  font-size: larger;
+  font-weight: bold;
+}
+h2{
+  font-size: medium;
+  font-weight: 500;
+}
