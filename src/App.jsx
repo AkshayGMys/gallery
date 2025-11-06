@@ -34,8 +34,8 @@ function App() {
     });
   }
   return (
-    <div>
-      <h1 className="flex text-6xl font-bold text-amber-300 justify-center items-center mt-5 font-mono">Image Gallery</h1>
+    <div className="w-full">
+         <h1 className="text-center text-6xl font-bold text-amber-300  mt-5 font-mono bb">Image Gallery</h1>
       <div className="flex flex-wrap justify-around p-10  gap-3">
         {printUserData}
       </div>
